@@ -12,5 +12,6 @@ Modelo SARIMA: (0,1,0)(0,1,1)[12]
 Os dados utilizados neste projeto consistem em uma série temporal de atendimentos médicos mensais, totalizando 60 meses de registros, de 2019 a 2023
 
 ## Modelos Utilizados
-ARIMA (AutoRegressive Integrated Moving Average): Um modelo de série temporal utilizado para capturar a autocorrelação entre os dados ao longo do tempo.
+ARIMA (AutoRegressive Integrated Moving Average): Um modelo de série temporal utilizado para capturar a autocorrelação entre os dados ao longo do tempo
+
 SARIMA (Seasonal ARIMA): Um modelo ARIMA expandido para incluir padrões sazonais, especialmente útil em séries temporais com comportamento periódico
